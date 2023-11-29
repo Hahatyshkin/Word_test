@@ -24,7 +24,7 @@ public static class Extensions
 
 public class Example
 {
-    public static void Main()
+    public static void Expl()
     {
         Dictionary<string, int> dict = new Dictionary<string, int>() {
             {"A", 1}, {"B", 2}, {"C", 3}, {"D", 4}, {"E", 5}

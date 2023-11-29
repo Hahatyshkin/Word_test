@@ -69,6 +69,7 @@ namespace Word_test
 
                     helper.Process(items);
                     str = items.GetString();
+                    SQLka.SQLk(str);
                 }
             }
             
